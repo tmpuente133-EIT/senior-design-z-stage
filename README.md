@@ -29,8 +29,7 @@ The visualization subsystem developed in this project addresses these limitation
 ### Experimental Setup Inside Vacuum Vessel
 The visualization system is mounted internally and positioned to observe samples located on the Z-stage platform. The Z-stage provides positional adjustment, while the camera subsystem provides continuous visual access during testing.
 
-**Image 1 – Full Vacuum Vessel Assembly with Camera and Z-Stage Installed**  
-*(Overall context showing the camera subsystem integrated inside the vessel)*  
+<img src= "images/ZStage_Setup.png" alt="Porcipine Vessel" width="375">
 
 ---
 
@@ -46,8 +45,7 @@ Design considerations included:
 - Protection from tin vapor and debris
 - Compatibility with existing vessel geometry
 
-**Image 2 – Camera Subsystem CAD Mounted Inside Vessel**  
-*(CAD rendering highlighting camera location and orientation)*  
+<img src= "images/Picture4.png" alt="Digital Camera" width="375">
 
 ---
 
